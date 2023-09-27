@@ -11,5 +11,8 @@
       "emitDecoratorMetadata": true,
       "experimentalDecorators": true,
       "sourceMap": true
-   }
+   },
+   "include": [
+     "src/**/*.ts" // Esto incluirá todos los archivos TypeScript en la carpeta src y sus subcarpetas
+   ]
 }

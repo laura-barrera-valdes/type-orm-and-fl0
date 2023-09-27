@@ -1,7 +1,3 @@
-# type-orm-and-fl0
-
-type-orm-and fl0-lau
-
 # Awesome Project Build with TypeORM
 
 Steps to run this project:
